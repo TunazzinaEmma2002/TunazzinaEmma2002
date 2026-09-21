@@ -6,17 +6,21 @@
   </p>
 
   <p>
-    🔭 I’m currently working on cool coding projects..<br>
-    🌱I’m currently learning new web technologies. .<br>
-    💬Ask me about tech and programming.
+    🔭 I’m currently working on cool coding projects.<br>
+    🌱 I’m currently learning new web technologies.<br>
+    💬 Ask me about tech and programming.
+  </p>
+
+  <!-- Skills Section -->
+  <h2>⚡ Tech Stack & Skills ⚡</h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="Skills" />
   </p>
 
   <!-- Cute Anime Girl GIF -->
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRnd3YwNWI0ODMzeXU2YmxoZHV2M2w3bjlseTVrMjFrMXN2d3FhdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0xrYb1Be4aw6jfDthB/giphy.gif" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hpbDUwOWQwdjByZ3NvNXE3aWN0emJ0Nm55cnJsdGFmamxjdmw3MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nekkldT5J7Pd1kdBGf/giphy.gif" width="300px" alt="Cute Anime Girl" />
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=TunazzinaEmma2002&color=blueviolet&style=flat-square" alt="Profile Views" />
-  </p>
+ 
 </div>
