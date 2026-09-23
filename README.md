@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Cute Anime GIF"/>
+  <img src="https://imgflip.com/gif/b1u4cm" width="300" alt="Cute Anime GIF"/>
 </p>
 
 <p align="left"> 
@@ -70,22 +70,17 @@
   <img src="https://github.com/tunazzinaemma2002/tunazzinaemma2002/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://ko-fi.com/Emma Tunazzina">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Emma Tunazzina" />
-  </a>
-</p>
-<br><br>
+<br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tunazzinaemma2002&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+<h3 align="left">GitHub Stats & Metrics:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tunazzinaemma2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tunazzinaemma2002&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tunazzinaemma2002&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tunazzinaemma2002&" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunazzinaemma2002&theme=tokyonight" alt="GitHub Streak" />
 </p>
