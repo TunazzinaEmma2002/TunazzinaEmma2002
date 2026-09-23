@@ -2,14 +2,16 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdnZ3E5cHM5eG8zMXF2d3E0eDF1MjdtdnZtM204MWljNGZtdWRkaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="250" alt="Cute Anime GIF"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Cute Anime GIF"/>
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tunazzinaemma2002" alt="tunazzinaemma2002" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tunazzinaemma2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="tunazzinaemma2002" />
   </a> 
 </p>
+
+---
 
 - 🔭 Working on TypeScript-based web projects & Next.js [Dev-stack](https://dev-stack-rouge.vercel.app)
 - 🌱 I’m currently learning **Advanced Next.js, TypeScript, React Hooks, Modern Web Architecture, Server Actions, Full-Stack Development**
@@ -17,6 +19,8 @@
 - 📫 How to reach me **tunazzina1054@gmail.com**
 - 📄 Know about my experiences [Linktree](https://linktr.ee/emmaevileye?utm_source=linktree_profile_share&ltsid=1e354fe9-7edc-4486-a6ee-cd8981fcca19)
 - ⚡ Fun fact **I turn coffee into Next.js bugs and then fix them.**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
