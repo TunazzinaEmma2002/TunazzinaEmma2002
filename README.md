@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tunazzina Rahman
+[# Hi 👋, I'm Tunazzina Rahman
 
 ### 🚀 A passionate full-stack developer from Bangladesh
 
@@ -65,3 +65,4 @@
 - **LinkedIn:** [tunazzina-rahman](https://linkedin.com/in/tunazzina-rahman)
 - **Instagram:** [emmaocxshisui](https://instagram.com/emmaocxshisui)
 - **YouTube:** [@shisuixemma](https://www.youtube.com/@shisuixemma)
+](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdnZ3E5cHM5eG8zMXF2d3E0eDF1MjdtdnZtM204MWljNGZtdWRkaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif)
