@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://imgflip.com/gif/b1u4cm" width="300" alt="Cute Anime GIF"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Cute Anime GIF"/>
 </p>
 
 <p align="left"> 
@@ -64,15 +64,8 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
-<!-- GitHub Snake Animation Integration -->
-<h3 align="left">Contribution Snake:</h3>
-<p align="center">
-  <img src="https://github.com/tunazzinaemma2002/tunazzinaemma2002/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
 <br>
 
-<h3 align="left">GitHub Stats & Metrics:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tunazzinaemma2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
