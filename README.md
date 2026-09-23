@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Cute Anime GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdnZ3E5cHM5eG8zMXF2d3E0eDF1MjdtdnZtM204MWljNGZtdWRkaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dwGJLOdbWULVRIBBfz/giphy.gif" width="250" alt="Cute Anime GIF"/>
 </p>
 
 <p align="left"> 
