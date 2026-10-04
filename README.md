@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 Working on TypeScript-based web projects & Next.js [Dev-stack](https://dev-stack-rouge.vercel.app)
+- 🔭 Working on TypeScript-based web projects & Next.js [Fit_log](fitlog-plum-rho.vercel.app)
 - 🌱 I’m currently learning **Advanced Next.js, TypeScript, React Hooks, Modern Web Architecture, Server Actions, Full-Stack Development**
 - 💬 Ask me about **React, Next.js, and TypeScript, Frontend Development and Modern Web Design**
 - 📫 How to reach me **tunazzina1054@gmail.com**
